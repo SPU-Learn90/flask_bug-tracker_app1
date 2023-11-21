@@ -1,0 +1,2 @@
+FLASK_APP=bugtracker
+FLASK_ENV=development
